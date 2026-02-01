@@ -23,7 +23,7 @@ Welcome to **Valentines Blossoming Flower**, a beautifully designed interactive 
 You can personalize this project in the following ways:
 
 ### 1️⃣ Change the Background Image
-Replace `image.jpeg` with your desired background image, ensuring the filename remains `image.jpeg`.
+Replace  with your desired background image, ensuring the filename remains `image.jpeg`.
 
 ### 2️⃣ Modify the Text and Messages
 - Edit the main message inside **index.html** in the following section:
@@ -56,7 +56,7 @@ Replace `image.jpeg` with your desired background image, ensuring the filename r
   - Background colors and effects
 
 ### 5️⃣ Add Your Name
-- Replace `Your Teddy` in **index.html** with your own signature:
+- Replace `your putt` in **index.html** with your own signature:
   ```html
   <a rel="noopener" href="https://www.linkedin.com/in/mjhasan21/" target="_blank">Your Teddy</a>
   ```
